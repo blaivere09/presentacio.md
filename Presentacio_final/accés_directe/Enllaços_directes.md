@@ -12,14 +12,10 @@ L’objectiu és facilitar l’accés ràpid a cada projecte i poder navegar de 
 
 | Projecte | Descripció | Enllaç |
 |----------|-------------|---------|
-| Projecte 01 | Arranquem | [Accedir](#) |
-| Projecte 02 | Consultoria EverPia | [Accedir](#) |
-| Projecte 03 | Consultoria EverPia 2 | [Accedir](#) |
-| Projecte 04 | Consultoria EverPia 3 | [Accedir](#) |
-| Projecte 05 | La incubadora | [Accedir](#) |
-| Projecte 06 | Nexus | [Accedir](#) |
-| Projecte 07 | Food Logístics S.A. | [Accedir](#) |
-| Projecte 08 | Connecta’t al Futur | [Accedir](#) |
+| Projecte 05 | La incubadora | [Accedir](https://github.com/blaivere09/projecte5-La-incubadora) |
+| Projecte 06 | Nexus | [Accedir](https://github.com/blaivere09/projecte6-blaivere09) |
+| Projecte 07 | Food Logístics S.A. | [Accedir](https://github.com/blaivere09/projecte-7-blaivere09) |
+| Projecte 08 | Connecta’t al Futur | [Accedir](https://github.com/blaivere09/projecte-8-blaivere09) |
 
 ---
 
