@@ -20,7 +20,7 @@
 
 
 
-[Començem](https://github.com)
+[Començem](https://github.com/blaivere09/presentacio.md/blob/main/Presentacio_final/explicacio.md)
 
 </div>
 
