@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 PRESENTACIÓ FINAL
-## 💻 Blai Vergés
+## 💻 Blai Vergés Brenes
 
 ---
 
